@@ -1,1 +1,2 @@
-i'm master test.txt
+i'm master-1 test.txt
+i update the first row,and add a new row.
